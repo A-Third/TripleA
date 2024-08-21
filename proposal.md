@@ -50,6 +50,9 @@ The application will feature the following frontend routes and core features:
 
 If time permits, the following stretch features will be implemented in order of priority:
 
+- Users will be able to search based on
+    - Title
+    - image_id
 - Users will be able to scroll through the paintings horizontally 
 - Users will be able to favorite their paintings. 
 - Users will be able to change the color scheme of the website from light mode to dark mode
@@ -60,26 +63,25 @@ If time permits, the following stretch features will be implemented in order of 
 
 To ensure that we can complete all core features of the application in 1 week, we will aim to complete tasks according to the following timeline:
 
-**Day 1**
-- [ ] Project Proposal 
-- [ ] Create Scrum Board
-
-
-**Day 2**
+**Day 1** Wednesday
 - [ ] Able to generate a page of artwork
 - [ ] Artworks can be seen on page
+
+
+**Day 2** Thursday
 - [ ] Create the form 
+- [ ] Like the artwork: features 
 
 
-**Day 3** (MVP due by the end of the day)
+**Day 3** (MVP due by the end of the day) Friday
 - [ ] Form causes the update of the artwork
 - [ ] Like the artwork: features 
 
 
-**Day 4**
+**Day 4** Monday
 - [ ] Style the page
 
-**Day 5**
+**Day 5** Friday
 - [ ] Create presentation and demo video
 
 
